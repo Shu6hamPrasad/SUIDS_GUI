@@ -1,5 +1,7 @@
-# suidsgui
-This package contains files for suidsgui
+# SUIDS_GUI
+Shubham User ID System_GUI 
+
+This repository contains files for suidsgui
 I ran out of Ideas so I abandoned this project and uploaded it to github so that sone who needs it can use this.
 The main class is logingui.java.
 The help.java does work but does not have any content in it to show.
