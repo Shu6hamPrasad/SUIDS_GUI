@@ -2,7 +2,7 @@
 Shubham User ID System_GUI 
 
 This repository contains files for suidsgui
-I ran out of Ideas so I abandoned this project and uploaded it to github so that sone who needs it can use this.
+I ran out of Ideas so I abandoned this project and uploaded it to github so that someone who needs it can use this.
 The main class is logingui.java.
 The help.java does work but does not have any content in it to show.
 To run the program simply run the logingui.java class and it will ask you for a Username and a Password.
